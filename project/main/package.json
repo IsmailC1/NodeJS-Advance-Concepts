@@ -10,6 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "crypto": "^1.0.1",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "node-gyp": "^3.8.0",
+    "utf-8-validate": "^5.0.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0"
   }
 }
